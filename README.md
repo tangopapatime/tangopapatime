@@ -1,4 +1,4 @@
-Hello, World! 🚀 I'm [Your Name], but you can call me the Code Crusader. In a world tangled with syntax and drowned in semicolons, I'm the Full Stack Superhero with a knack for decoding the most cryptic conundrums.
+Hello, World! 🚀 I'm the Code Crusader. In a world tangled with syntax and drowned in semicolons, I'm the Full Stack Superhero with a knack for decoding the most cryptic conundrums.
 
 Got a bug? I'm more effective than a can of RAID! Need a software solution? I whip up Python scripts like a culinary wizard conjures up Michelin-star dishes. Geo-spatial mapping? You could say I've found my place in the world.
 
