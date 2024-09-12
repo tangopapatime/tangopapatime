@@ -9,6 +9,3 @@ In my previous digital adventures, I've navigated through secure terrains, dance
 Feel free to fork my repositories; just beware, they might contain traces of nerdy jokes, coding magic, and a dash of Vietnamese zest.
 
 Here's to code, coffee, and the endless pursuit of the perfect algorithm! 🎉
-
-[![Tango's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangopapatime&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tangopapatime&layout=compact&theme=synthwave)
