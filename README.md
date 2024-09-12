@@ -11,4 +11,4 @@ Feel free to fork my repositories; just beware, they might contain traces of ner
 Here's to code, coffee, and the endless pursuit of the perfect algorithm! 🎉
 
 [![Tango's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangopapatime&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tangopapatime&layout=compact&theme=synthwave)
